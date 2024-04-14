@@ -1,6 +1,9 @@
 {
-    "name": "B.A.R.",
-    "symbol": "BAR",
-    "description": "Teste B.A.R.)",
-    "image": "https://raw.githubusercontent.com/DPoolCoin/dpoolcoin/main/DPoolSymbol.png"
+    "name": "DPool Coin",
+    "symbol": "DPOOL",
+    "description": "Solana Memecoin, NFT, Crypto Game, Community, Donations and more",
+    "image": "https://raw.githubusercontent.com/DPoolCoin/dpoolcoin/main/DPoolSymbol.png",
+    "extensions": {
+        "website":"https://dpool.fun/",
+    }
 }
