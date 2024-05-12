@@ -1,9 +1,12 @@
 {
     "name": "DPool Coin",
     "symbol": "DPOL",
-    "description": "Solana Memecoin, NFT, Crypto Game, Community, Donations and more",
+    "description": "More than a Solana Memecoin and Web3 Game",
     "image": "https://raw.githubusercontent.com/DPoolCoin/dpoolcoin/main/DPoolSymbol.png",
     "extensions":{
-        "why":"because why not"
+        "Website":"https://dpool.fun/",
+        "X":"https://twitter.com/RealDpoolCoin",
+        "Telegram":"https://t.me/dpoolcoin",
+        "NFTs":"https://exchange.art/dpoolcoin/nfts"
     }
 }
